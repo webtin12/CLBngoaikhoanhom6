@@ -1,0 +1,65 @@
+.banner {
+background: url("k.jpg") no-repeat center center;
+background-size: cover;
+padding-top: 12rem;
+padding-bottom: 11rem;
+text-align: center !important;
+color:aliceblue;
+font-family:verdana;
+}
+.slogan {
+text-align: center !important;
+width: 100%;
+font-family:arial;
+}
+h2 {color: red;
+font-family:arial;
+}
+h3 {color: navy;
+font-family:verdana;
+}
+.row {
+display: flex;
+flex-wrap: wrap;
+margin-top: -1;
+max-width: 100%;
+padding-right: 3rem;
+padding-left: 3rem;
+background-color: lightgrey;
+font-family:verdana;
+}
+.block_3{
+flex: 0 0 auto;
+width: 30%;
+margin: 10px;
+}
+.cell_img {
+flex:1;
+max-width: 60%;
+margin:0 10px;
+}
+.cell_text{
+flex:1;
+max-width: 40%;
+margin:0 10px;
+padding-left: 5rem;
+}
+.img{
+width:370px; height:250px;
+}
+.img1{
+width:570px; height:450px;
+}
+footer {
+background-color: lightgrey;
+margin: 1px:
+padding: 10px;
+}
+.link {
+color: navy;
+text-align: left;
+}
+.menu {
+font-size:120%;
+text-decoration: none;
+}
